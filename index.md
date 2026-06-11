@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-I am god!
+title: I am god!
 ---
